@@ -1,0 +1,39 @@
+body{
+    background: #cccccc;
+}
+form{
+    background: #630606;
+    padding:2rem;
+    padding-top: 10px;
+    border-radius: 0.2rem;
+}
+.login-inicio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    width: 500px;
+}
+.form-group {
+    color:#fff;
+    padding-top:10px;
+}
+.btn-danger{
+    background-color: #890f0d;
+    margin-top:10px;
+    border-color: #890f0d; 
+}
+a{ 
+    color:#cecece;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 2px;
+}
+a:hover{
+    color:#fff;
+}
+h2 {
+    color: #cecece;
+    text-align: center;
+}
